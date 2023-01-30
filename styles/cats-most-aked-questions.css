@@ -1,0 +1,36 @@
+article{
+    margin-top: 50px;
+    width: 980px;
+    position: relative;
+    margin: 0 auto;
+}
+
+article h2{
+    font-size: 1.7em;
+    font-family: 'Rowdies', cursive;
+    margin-top: 40px;
+}
+
+article span{
+    font-family: 'Source Serif Pro', serif;
+    font-weight: 600;
+}
+
+article img{
+    position: relative;
+    float: right;
+    display: block;
+    width: 300px;
+    bottom: 25px;
+    height: 170px;
+}
+
+article p{
+    font-size: 1rem;
+    font-weight: normal;
+}
+
+article .very-important{
+    font-weight: bold;
+    text-transform: uppercase;
+}

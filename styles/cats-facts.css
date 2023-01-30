@@ -1,0 +1,31 @@
+header span{
+    text-transform: lowercase;
+}
+
+section ol{
+    font-family: 'Sofia Sans', sans-serif;
+    font-size: 1.5em;
+}
+
+ol img{
+    float: right;
+    display: block;
+    width: 400px;
+    height: 350px;
+    margin-left: 15px;
+    margin-bottom: 5px;
+}
+
+ol span{
+    font-family: 'Source Serif Pro', serif;
+    font-weight: 400;
+}
+
+ol .very-important{
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+ol li{
+    margin: 7px;
+}
